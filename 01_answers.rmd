@@ -16,7 +16,7 @@ date: "last updated: `r Sys.Date()`"
 ### GitHub
 
 Your GitHub account:
-
+- ElaMueller
 
 ### Previous experience
 
@@ -30,24 +30,33 @@ Fill in this [short survey on your previous experience](https://forms.gle/BJtFLN
 
 ### Legality of scraping
 
+  Scraping is illegal when ToS are disregarded or the scraping is done without permission.
 
 Describe what the following terms / laws / cases refer to in one sentence each:
 
 terms of service: 
+  Terms of Serviceare often disregarded when web scraping. That is why it has a negative connotation.  
 
 GDPR: 
+  GDPRis the general data protection regulation that applies for companies all over the world.
 
 Computer Fraud and Abuse Act: 
+  The US has adapted a bill called Computer Fraud and Abuse Actin order to prohibit the unauthorized access to computers.
 
 Sandvig v. Barr: 
-
+  The Sandvig v. Barr lawsuits challenges the Computer Fraud and Abuse Act in order to uncover racial discrimination happening online.
 
 
 ### Terms of service
 
-Something that is not allowed:
+  Instagram
+
+Something that is not allowed: 
+  You may not use the Instagram service for any illegal or unauthorized purpose. International users agree to comply with all local laws regarding online conduct and acceptable content.
 
 Something that is confusing:
+  Instagram does NOT claim ANY ownership rights in the text, files, images, photos, video, sounds, musical works, works of authorship, applications, or any other materials (collectively, "Content") that you post on or through the Instagram Services. By displaying or publishing ("posting") any Content on or through the Instagram Services, you hereby grant to Instagram a non-exclusive, fully paid and royalty-free, worldwide, limited license to use, modify, delete from, add to, publicly perform, publicly display, reproduce and translate such Content, including without limitation distributing part or all of the Site in any media formats through any media channels, except Content not shared publicly ("private") will not be distributed outside the Instagram Services
+
 
 Something related to scraping: 
 
@@ -56,6 +65,11 @@ Something related to scraping:
 
 
 webpage you checked:
+  Url: https://www.ipz.uzh.ch/de/studium/MA.html
+  
+  Robots.txt is a text file webmasters create to instruct web robots (typically search engine robots) how to crawl pages on their website. 
+
+Robots allowed: All robots
 
 
 ### Hacktivism
@@ -63,10 +77,36 @@ webpage you checked:
 Find information about the following people.
 
 - Aaron Swartz
+
+- fought for Open Access
+- accused of stealing journal articles from JSTOR through automated scraping 
+- hanged himself at the age of 26
+
 - Alexandra Elbakyan
+
+- also supports Open Access
+- under investigation for stealing articles from Elsevier
+- currently in hiding
+- studies focused on neuroscience, consciousness, computer science, scientific communication
+
+
 - Karrie Karahalios
+
+- professor of Computer Science
+- focuses on social media & influence on society
+- co-plaintiff against „a federal statute that prohibits and chills academics, researchers, and journalists from testing for discrimination on the internet“ (Computer Fraud and Abuse Act)
+
 - Murray Cox
+
+- uses airbnb data to find illegal listings
+- professor of computational biology
+- genomics, computer science & statistics
+
 - Paolo Cirio
+
+- combination of art and data collection/appropriation
+
+
 - another data activist of your choosing
 
 
